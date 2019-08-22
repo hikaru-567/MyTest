@@ -5,8 +5,8 @@ window.onload = () => {
     /** カメラ設定 */
     const constraints = {
       video: {
-        width: 300,
-        height: 200,
+        width: 250,
+        height: 160,
         facingMode: "user"   // フロントカメラを利用する
       }
     };
